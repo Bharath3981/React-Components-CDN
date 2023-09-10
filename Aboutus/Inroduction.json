@@ -1,10 +1,9 @@
 {
-  "inroduction": `Dedicated, passionate, and accomplished UI Developer with 9+ years of progressive experience working as an Individual Contributor for Inviter, Oracle and developing enterprise application. I’ve acquired a wide depth of knowledge and expertise in using my technical skills in programming,
-    computer science, software development.`,
+  "inroduction": "Dedicated, passionate, and accomplished UI Developer with 9+ years of progressive experience working as an Individual Contributor for Inviter, Oracle and developing enterprise application. I’ve acquired a wide depth of knowledge and expertise in using my technical skills in programming, computer science, software development.",
   "highlights": [
     {
       "key": 1,
-      "descriptons": `3 years of experience of developing web application with React and React-Redux .`
+      "descriptons": "3 years of experience of developing web application with React and React-Redux ."
     }
   ]
 }
