@@ -3,7 +3,39 @@
   "highlights": [
     {
       "key": 1,
-      "descripton": "3 years of experience of developing web application with React and React-Redux ."
+      "descripton": "3 years of experience of developing web application with React and React-Redux."
+    },
+    {
+      "key": 2,
+      "descripton": "Proficient in Typescript, HTML, CSS3 usage in building large scale applications."
+    },
+    {
+      "key": 3,
+      "descripton": "Knowledge of Data Structures (Searching & Sorng algorithms)."
+    },
+    {
+      "key": 4,
+      "descripton": "Experienced on accessibility using JAWS and Oracle tool."
+    },
+    {
+      "key": 5,
+      "descripton": "Expertise in DOM Manipulations using JavaScript."
+    },
+    {
+      "key": 6,
+      "descripton": "Worked in Agile methodology."
+    },
+    {
+      "key": 7,
+      "descripton": "Experience in NPM, GIT, SVN, and JIRA."
+    },
+    {
+      "key": 8,
+      "descripton": "Participates in Technical Designs & Code reviews."
+    },
+    {
+      "key": 9,
+      "descripton": "Extended support to other Oracle teams for converting their projects to Oracle JET."
     }
   ]
 }
