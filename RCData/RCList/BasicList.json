@@ -36,12 +36,17 @@
   },
   {
     "id": 8,
-    "name": "Bharath",
+    "name": "Ravi",
     "title": "Senior UI developer"
   },
   {
     "id": 9,
     "name": "Kiran Kumar",
+    "title": "Senior OIPA Manager"
+  },
+  {
+    "id": 10,
+    "name": "Shashank",
     "title": "Senior UI developer"
   }
 ]
