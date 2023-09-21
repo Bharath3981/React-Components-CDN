@@ -1,52 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Adithya",
-    "title": "Oracle Cloud Infrastructure GTM Channel Director EMEA"
+    "name": "Ravi",
+    "title": "Oracle Cloud Infrastructure GTM Channel Director EMEA",
+    "image": "./profile/ravi.jpg"
   },
   {
     "id": 2,
-    "name": "Surya Kumar",
-    "title": "Senior Principal Escalation Manager"
+    "name": "Phanindra Kumar",
+    "title": "Senior Principal Escalation Manager",
+    "image": "./profile/PhaniPulapa.jpg"
   },
   {
     "id": 3,
-    "name": "Ramesh Yadav",
-    "title": "Area Business Operations Director EMEA & JAPAC"
+    "name": "Satya Narayana",
+    "title": "Area Business Operations Director EMEA & JAPAC",
+    "image": "./profile/SatyaNarayana.png"
   },
   {
     "id": 4,
-    "name": "Kiran Kumar",
-    "title": "Vice-President HCM Application Development"
+    "name": "Rajesh Nara",
+    "title": "Vice-President HCM Application Development",
+    "image": "./profile/RajeshNaraboy.jpg"
   },
   {
     "id": 5,
-    "name": "Arjun",
-    "title": "Consulting Project Technical Manager"
+    "name": "Shashank Thaduri",
+    "title": "Consulting Project Technical Manager",
+    "image": "./profile/ShashankThaduri.jpg"
   },
   {
     "id": 6,
-    "name": "Anand",
-    "title": "Customer Service Analyst"
+    "name": "Sumanth Pidaparthi",
+    "title": "Customer Service Analyst",
+    "image": "./profile/SumanthPidapa.png"
   },
   {
     "id": 7,
-    "name": "Gowtham",
-    "title": "Senior Principal Escalation Manager"
+    "name": "Abhinav Sharma",
+    "title": "Senior Principal Escalation Manager",
+    "image": "./profile/AbhinavSharma.jpg"
   },
   {
     "id": 8,
-    "name": "Ravi",
-    "title": "Senior UI developer"
+    "name": "Rajesh Palakurthi",
+    "title": "Senior UI developer",
+    "image": "./profile/RajeshPalakurthi.jpg"
   },
   {
     "id": 9,
     "name": "Kiran Kumar",
-    "title": "Senior OIPA Manager"
+    "title": "Senior OIPA Manager",
+    "image": "./profile/user.png"
   },
   {
     "id": 10,
-    "name": "Shashank",
-    "title": "Senior UI developer"
+    "name": "Thirupathi Molugoori",
+    "title": "Senior UI developer",
+    "image": "./profile/ThirupathiMolugoori.jpg"
   }
 ]
