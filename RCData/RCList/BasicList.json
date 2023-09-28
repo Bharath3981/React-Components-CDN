@@ -58,5 +58,11 @@
     "name": "Thirupathi Molugoori",
     "title": "Senior UI developer",
     "image": "./profile/ThirupathiMolugoori.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sivaram Nyayapati",
+    "title": "Produce development manager",
+    "image": "./profile/Sivaram.jpg"
   }
 ]
