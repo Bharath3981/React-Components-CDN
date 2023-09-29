@@ -1,0 +1,94 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "label": "Framework & libraries",
+      "skills": [
+        {
+          "skillId": 1,
+          "label": "ReactJS"
+        },
+        {
+          "skillId": 2,
+          "label": "Redux-toolkit"
+        },
+        {
+          "skillId": 3,
+          "label": "JavScript"
+        },
+        {
+          "skillId": 4,
+          "label": "Jquery"
+        },
+        {
+          "skillId": 5,
+          "label": "Oracle JET"
+        },
+        {
+          "skillId": 6,
+          "label": "JET VDOM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Servers",
+      "skills": [
+        {
+          "skillId": 1,
+          "label": "Oracle"
+        },
+        {
+          "skillId": 2,
+          "label": "Microsoft SQL Server"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "IDE",
+      "skills": [
+        {
+          "skillId": 1,
+          "label": "Eclipse"
+        },
+        {
+          "skillId": 2,
+          "label": "Visual Studio"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "CSS",
+      "skills": [
+        {
+          "skillId": 1,
+          "label": "Bootstrap"
+        },
+        {
+          "skillId": 2,
+          "label": "Tailwind"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Verson Control System",
+      "skills": [
+        {
+          "skillId": 1,
+          "label": "GIT"
+        },
+        {
+          "skillId": 2,
+          "label": "SVN"
+        },
+        {
+          "skillId": 3,
+          "label": "NPM"
+        }
+      ]
+    }
+  ]
+}
