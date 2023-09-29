@@ -1,8 +1,8 @@
 {
-  "skills": [
+  "categories": [
     {
       "id": 1,
-      "label": "Framework & libraries",
+      "label": "Libraries",
       "skills": [
         {
           "skillId": 1,
