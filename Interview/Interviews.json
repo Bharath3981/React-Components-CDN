@@ -4,7 +4,26 @@
       "id": "javascript",
       "title": "JavaScript interview questions",
       "stripColor": "bg-green-600",
-      "interviewQuestions": []
+      "interviewQuestions": [
+        {
+          "id": "jsInterview1",
+          "title": "sum(a)(b)...(n)",
+          "description": "The sum method should return the some of all parameters. asdf asdf sad f",
+          "path": "/jsInterview1"
+        },
+        {
+          "id": "jsInterview2",
+          "title": "Debouncing",
+          "description": "Implement debouncing logic.",
+          "path": "/jsInterview2"
+        },
+        {
+          "id": "jsInterview3",
+          "title": "throttling",
+          "description": "Implement throttling logic.",
+          "path": "/jsInterview3"
+        }
+      ]
     },
     {
       "id": "react",
