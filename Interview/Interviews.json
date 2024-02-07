@@ -1,0 +1,34 @@
+{
+  "category": [
+    {
+      "id": "javascript",
+      "title": "JavaScript interview questions",
+      "stripColor": "bg-green-600",
+      "interviewQuestions": []
+    },
+    {
+      "id": "react",
+      "title": "ReactJS interview questions",
+      "stripColor": "bg-sky-600",
+      "interviewQuestions": []
+    },
+    {
+      "id": "redux",
+      "title": "Redux interview questions",
+      "stripColor": "bg-purple-400",
+      "interviewQuestions": []
+    },
+    {
+      "id": "AL",
+      "title": "Algorithms interview questions",
+      "stripColor": "bg-orange-500",
+      "interviewQuestions": []
+    },
+    {
+      "id": "generic",
+      "title": "Generic interview questions",
+      "stripColor": "bg-red-500",
+      "interviewQuestions": []
+    }
+  ]
+}
