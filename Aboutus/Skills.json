@@ -32,7 +32,7 @@
     },
     {
       "id": 2,
-      "label": "Servers",
+      "label": "DB",
       "skills": [
         {
           "skillId": 1,
@@ -40,7 +40,7 @@
         },
         {
           "skillId": 2,
-          "label": "Microsoft SQL Server"
+          "label": "My SQL"
         }
       ]
     },
@@ -83,10 +83,6 @@
         {
           "skillId": 2,
           "label": "SVN"
-        },
-        {
-          "skillId": 3,
-          "label": "NPM"
         }
       ]
     }
