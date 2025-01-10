@@ -5,6 +5,14 @@
       "label": "Libraries",
       "skills": [
         {
+          "skillId": 7,
+          "label": "VBCS"
+        },
+         {
+          "skillId": 5,
+          "label": "Oracle JET"
+        },
+        {
           "skillId": 1,
           "label": "ReactJS"
         },
@@ -19,10 +27,6 @@
         {
           "skillId": 4,
           "label": "Jquery"
-        },
-        {
-          "skillId": 5,
-          "label": "Oracle JET"
         },
         {
           "skillId": 6,
